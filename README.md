@@ -10,7 +10,7 @@
 ---
 
 ## 🌟 About Me   
-- 🌱 Intrested in **SOFTWARE,AI,FRONTEND DEVOLOPMENT,DESIGN.**  
+- 🌱 Intrested in **SOFTWARE,AI,FRONTEND DEVOLOPMENT,DESIGNIG.**  
 - 💬 Ask me about **Creative Mini Projects & Web Dev**  
 - ⚡ fact: *DREAMS WITHOUT ACTION IS JUST SLEEP*
 
