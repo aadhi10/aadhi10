@@ -27,8 +27,7 @@
   <img src="https://skillicons.dev/icons?i=php,mysql,js,html,css,linux" alt="tech icons"/>
 </p>
 
----
-## 📊 GitHub Stats  
+---  
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Aadhi&show_icons=true&theme=tokyonight" height="150" alt="github stats"/>
   
