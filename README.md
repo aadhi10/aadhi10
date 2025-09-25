@@ -56,7 +56,7 @@
   <a href="https://wa.me/918590446232">
     <img src="https://img.shields.io/badge/WhatsApp-green?logo=whatsapp&style=for-the-badge" alt="WhatsApp"/>
   </a>
-  <a href="mailto:adithyanva100@example.com">
+  <a href="mailto:adithyanva100@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-red?logo=gmail&style=for-the-badge" alt="Gmail"/>
   </a>
   <a href="https://discord.com/users/athe007">
