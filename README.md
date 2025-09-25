@@ -48,10 +48,10 @@
 ---
 ## 🌐 Connect with Me  
 <p align="center">
-  <a href="(https://www.linkedin.com/in/adithyan-va-a408a9287?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)">
+  <a href="https://www.linkedin.com/in/adithyan-va-a408a9287?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app">
     <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge" alt="LinkedIn"/>
   </a>
-  <a href="(https://www.instagram.com/adhe_prv?igsh=MTJiYnFydmJlajFhMQ==)">
+  <a href="https://www.instagram.com/adhe_prv?igsh=MTJiYnFydmJlajFhMQ==">
     <img src="https://img.shields.io/badge/Instagram-pink?logo=instagram&style=for-the-badge" alt="Instagram"/>
   </a>
   <a href="https://wa.me/918590446232">
